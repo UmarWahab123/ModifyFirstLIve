@@ -1,0 +1,469 @@
+/* ****************
+Ratina
+************** */
+
+@media (min-width: 1920px) {
+    .east-content {
+        width: 565px;
+    }
+
+    .question::after {
+        right: -180px;
+        bottom: -130px;
+    }
+    .animate7 {
+        top: -21%;
+    }
+    .guaranted {
+        height: 800px;
+    }
+    .guaranted-con {
+        height: 800px;
+    }
+    .our-services .items {
+        border-radius: 30px;
+    }
+    .single-blog {
+        height: 580px;
+    }
+    .blog-img img {
+        height: 332px;
+    }
+
+
+}
+
+@media (max-width: 1920px) {
+    .east-content {
+        width: 565px;
+    }
+}
+
+@media (max-width: 1680px) {
+
+}
+
+@media (max-width: 1440px) {
+
+    .blog-img img {
+        height: 232px;
+    }
+}
+
+
+/* ****************
+Desktop
+************** */
+
+@media (max-width: 1200px) {
+    .spape1 {
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .spape2 {
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 0;
+        margin-bottom: -120px;
+    }
+    .spape3 {
+        text-align: center;
+        margin: 0 auto;
+        margin-top: -120px;
+        margin-bottom: 0px;
+    }
+    .east-content {
+        width: 100%;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        margin: 0 5px;
+    }
+    .navbar-nav .nav-item a.live-demo {
+        margin-left: 5px;
+    }
+    #inner {
+        width: 300px;
+        height: 260px;
+        top: -190px;
+        right: 30px;
+    }
+    img.clock {
+        position: absolute;
+        left: -35px;
+        top: 78%;
+        width: 200px;
+    }
+    .guaranted {
+        height: 400px;
+    }
+    .guaranted-con {
+        height: 400px;
+    }
+    .craiglist-img img {
+        margin-top: -70px;
+    }
+    .see-ruselt-text h2 {
+        font-size: 30px;
+    }
+
+    .blog-img img {
+        height: 200px;
+    }
+    .slider-text h4 {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 1024px) {
+}
+
+@media (max-width: 992px) {}
+
+@media (max-width: 991px) {
+    .navbar-collapse {
+        background-image: linear-gradient(to right, #FFFFFF, #FFFFFF, #FFFFFF, #FCD3DC, #E8ABEF);
+        padding-bottom: 20px;
+        transition: all 0.4s ease;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        margin: 8px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link.active:before {
+        top: 25px;
+    }
+    .navigation .dropdown-menu::before {
+        top: 46px;
+        left: 30px;
+    }
+    .navigation .dropdown-box li .media {
+        margin: 0 10px;
+        margin-bottom: 25px;
+    }
+    .fixedtop .navbar-collapse {
+        background-image: none;
+        padding-bottom: 20px;
+        transition: all 0.4s ease;
+    }
+    .automotive-area {
+        margin: 50px 0;
+    }
+    .dealership-text {
+        margin-top: 100px;
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    .automotive-content h1 {
+        font-size: 36px;
+    }
+    .automotive-content p {
+        font-size: 16px;
+        margin: 15px 0;
+    }
+    a.live-demo {
+        padding: 10px 0;
+    }
+    
+    .navbar-nav .nav-item a.call-now {
+        width: 45px;
+    }
+    .dealership-text h2 {
+        font-size: 24px;
+    }
+    .east-content {
+        width: 100%;
+    }
+    .easy-text p {
+        font-size: 16px;
+        margin: 10px 0;
+    }
+    .easy-text h3 {
+        font-size: 20px;
+    }
+    a.login-btn {
+        width: 100px;
+        text-align: center;
+        margin-left: 0;
+    }
+    .navbar-nav .nav-item a.live-demo {
+        margin-left: 0;
+    }
+    .spape2 {
+        text-align: center;
+        margin: 0 auto;
+        margin-top: -30px;
+        margin-bottom: -120px;
+    }
+    .spape3 {
+        text-align: center;
+        margin: 0 auto;
+        margin-top: -100px;
+        margin-bottom: -20px;
+    }
+    .automotive-content {
+        text-align: center;
+        justify-content: center;
+    }
+    .automotive-img {
+        margin-top: 30px;
+    }
+    img.clock {
+        position: absolute;
+        left: 0;
+        top: 78%;
+        width: 200px;
+    }
+    #inner {
+        width: 280px;
+        height: 280px;
+        right: 0;
+        top: -150px;
+    }
+    .facebook-inventory {
+        margin-bottom: 0;
+    }
+    .comming-text h2 {
+        font-size: 30px;
+    }
+    .comming-text h4 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .comming-text p {
+        font-size: 15px;
+    }
+    .single-blog {
+        height: 530px;
+    }
+    .blog-title h3 {
+        font-size: 20px;
+    }
+    .marginTop {
+        margin-top: -120px;
+    }
+    .blog-header {
+        height: 200px;
+    }
+    .deatailamargin {
+        margin-top: -80px;
+    }
+
+}
+
+@media (max-width: 768px) {}
+
+
+/* **************** 
+Tab 
+************** */
+
+@media (max-width: 767px) {
+    .spape1,
+    .spape2,
+    .spape3 {
+        display: none;
+    }
+    .east-content {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .easy-image {
+        margin-bottom: 30px;
+    }
+    .automotive-content {
+        margin-bottom: 15px;
+    }
+    br {
+        display: none;
+    }
+    .easy-to-use {
+        display: none
+    }
+    .easy-to-use.mobile-view {
+        display: block;
+    }
+    .mobile-view {
+        display: block;
+        margin-bottom: 30px;
+    }
+    .desktop-view {
+        display: none;
+    }
+    .footer-menu h4,
+    .social h4 {
+        margin-top: 15px;
+    }
+    .footer {
+        padding: 30px 0;
+    }
+    .guaranted {
+        height: 300px;
+    }
+    .guaranted-con {
+        height: 300px;
+        justify-content: center;
+    }
+    .guaranted-text h5 {
+        font-size: 18px;
+    }
+    .guaranted-text h4 {
+        font-size: 18px;
+    }
+    .guaranted-text h2 {
+        font-size: 28px;
+    }
+    .title h2 {
+        font-size: 28px;
+    }
+    .responsive-img {
+        margin-top: 0px;
+    }
+    .animate7 {
+        display: none;
+    }
+    .question {
+        margin-bottom: 155px;
+        margin-top: 100px;
+    }
+    .animate3 {
+        display: none;
+    }
+    .animate2 {
+        display: none;
+    }
+    .question-text h4 {
+        font-size: 18px;
+    }
+    .lead-crm {
+        height: auto;
+        margin: 50px 0;
+    }
+    .scn-title h2 {
+        font-size: 28px;
+    }
+    .table-area h4 {
+        font-size: 18px;;
+    }
+    .craiglist-img img {
+        margin-top: 0;
+    }
+    .craiglist-posting {
+        margin-bottom: 230px;
+    }
+    .east-content .scn-title h2 {
+        font-size: 20px;
+    }
+    .craiglist-text h5 {
+        font-size: 20px;
+    }
+    .craiglist-text p {
+        font-size: 13px;
+    }
+    .automotive-content h1 {
+        font-size: 28px;
+    }
+    .see-ruselt {
+        height: 100%;
+    }
+    .our-services h3 {
+        font-size: 30px;
+    }
+    .real-dealer h3 {
+        font-size: 30px;
+    }
+    .count-dealer {
+        border-left: 1px solid transparent;
+    }
+    .our-services .items {
+        height: 450px;
+    }
+    .single-blog {
+        height: auto;
+    }
+    .readmore {
+        position: inherit;    
+    }
+    .blog-con h3 {
+        font-size: 16px;
+    }
+
+}
+
+
+@media (max-width: 575px) {
+    img.clock {
+        position: absolute;
+        left: 0;
+        top: 78%;
+        width: 150px;
+    }
+    #inner {
+        width: 180px;
+        height: 200px;
+        right: 0;
+        top: -130px;
+    }
+    .navigation .dropdown-box {
+        width: 100%;
+        float: left;
+    }
+    .navigation .dropdown-menu {
+        float: left;
+        min-width: 300px;
+        padding: 15px 15px;
+    }
+    .navigation .dropdown-box li a {
+        display: block;
+        text-decoration: none;
+    }
+    .title h2 {
+        font-size: 22px;
+    }
+    .video-modal .close {
+        top: -5px;
+        right: 5px;
+        z-index: 999;
+    }
+    
+    .scn-title h2 {
+        font-size: 22px;
+    }
+    .table-area .table td, .table-area .table th {
+        padding: 5px 8px;
+        font-size: 12px;
+    }
+    .craiglist-posting {
+        margin-bottom: 130px;
+    }
+    .facebook-lead h5 {
+        font-size: 18px;
+    }
+    .merketing h3 {
+        font-size: 20px;
+    }
+    .subtitle h4 {
+        font-size: 20px;
+    }
+    .scn-title2 h4 {
+        font-size: 16px;
+    }
+
+}
+
+
+@media (max-width: 480px) {}
+
+
+/* **************** 
+Mobile 
+************** */
+
+@media (max-width: 375px) {}
+
+@media (max-width: 360px) {}
+
+@media (max-width: 320px) {}
